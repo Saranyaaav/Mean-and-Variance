@@ -1,3 +1,7 @@
+## Name : Saranya V
+## Reg No : 212223040188
+## Dept : CSE
+
 #  Mean and variance of a discrete  distribution
 
 
@@ -48,10 +52,12 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+![Screenshot 2025-04-29 081223](https://github.com/user-attachments/assets/14d30854-ecbc-416d-8d32-a790c5c8e926)
 
 
 
 # Output : 
+![Screenshot 2025-04-29 081529](https://github.com/user-attachments/assets/16c60288-c6d7-4ac3-b29f-7444bfde250d)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
